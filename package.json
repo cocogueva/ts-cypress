@@ -1,0 +1,15 @@
+{
+  "name": "ts-cypress",
+  "version": "1.0.0",
+  "description": "TypeScript POC!",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "author": "Coco Guevara",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.0",
+    "typescript": "^4.9.5"
+  }
+}
